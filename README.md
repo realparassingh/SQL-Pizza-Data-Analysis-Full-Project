@@ -16,3 +16,5 @@ Question 5 - (Intermediate) -> Determine the top 3 most ordered pizza types base
 Question 1 - (Advanced) -> Calculate the percentage contribution of each pizza type to total revenue.  
 Question 2 - (Advanced) -> Analyze the cumulative revenue generated over time.  
 Question 3 - (Advanced) -> Determine the top 3 most ordered pizza types based on revenue for each pizza category.  
+
+# I also Uploaded a Dashboard in the Repo which i had created using PowerBI Tool.
